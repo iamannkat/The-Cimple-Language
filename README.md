@@ -1,2 +1,6 @@
-# The-Cimple-Language
-My first compiler code written in python!
+## The-Cimple-Language
+
+The code to compile files written in cimple language (.ci)
+
+# The project consists of three phases:
+
