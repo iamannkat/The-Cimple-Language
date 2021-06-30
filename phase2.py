@@ -1,5 +1,4 @@
-# ANNA AIKATERINI TSIALIOU, 4188, username: cse74188
-# EVANGELIA ANASTASIA GKOGKOU, 4045, username: cse74045
+
 
 # ************************************ THE CIMPLE LANGUAGE ************************************* #
 # ******************************************* PHASE 2 ****************************************** #
